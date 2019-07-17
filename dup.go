@@ -1,4 +1,4 @@
-package dup
+package main
 
 import (
 	"github.com/KennethanCeyer/dup/web"
